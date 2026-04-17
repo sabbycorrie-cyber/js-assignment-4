@@ -9,4 +9,4 @@ const generateRandomArray = (length) => {
     return randomArray;
 };
 
-console.log(generateRandomArray(8));
+console.log("Generated Random Array:", generateRandomArray(10));
