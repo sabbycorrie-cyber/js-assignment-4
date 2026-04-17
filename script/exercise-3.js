@@ -1,0 +1,2 @@
+// EXERCISE 3: Calculate the sum of even numbers in the array  
+
